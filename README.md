@@ -22,7 +22,7 @@
 | **[FinAura](https://github.com/devanshithakkar777-hue/FinAura)** | A behavior-first investing app that shows what your own decisions have cost you. Measures Behavioral Alpha, runs a pre-mortem check before risky trades, convenes a four-agent advisory council, and simulates your future through crashes. | [Live demo ↗](https://finaura-hq9t.onrender.com) |
 | **[Sukoon](https://github.com/devanshithakkar777-hue/Sukoon)** | AI-powered cognitive assistance and caregiver support for elderly dementia patients. | [Live demo ↗](https://syntax-slaughter.onrender.com) |
 | **[UDAAN](https://github.com/devanshithakkar777-hue/UDAAN-)** | A free AI companion for emotional wellness and personal growth: honest perspectives, guided tools, crisis support and access to verified professionals. | [Live demo ↗](https://udaan-7alw.onrender.com) |
-| **[RAHAT](https://github.com/devanshithakkar777-hue/RAHAT)** | Intelligent disaster-relief platform: government-verified disasters, donations of money or supplies, real-time allocation tracking, public fund transparency and an agentic AI planner. | *Coming soon* |
+| **[RAHAT](https://github.com/devanshithakkar777-hue/RAHAT)** | Intelligent disaster-relief platform: government-verified disasters, donations of money or supplies, real-time allocation tracking, public fund transparency and an agentic AI planner. | [Live demo ↗](https://devanshithakkar777-hue.github.io/RAHAT/RAHAT_App.html) |
 
 > ⏳ *Demos run on free hosting and may take ~50 seconds to wake up on the first visit.*
 
